@@ -61,7 +61,6 @@ function lodingfun() {
   setTimeout(() => {
     document.getElementById("geine-mes").classList.remove("fade-in-text3");
   }, 3000);
-  document.getElementById("wish-mes").classList.add("fade-in-text2");
   document.getElementById("icon").classList.add("fade-in-text");
 
 }
