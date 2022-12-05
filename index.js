@@ -53,7 +53,7 @@ function lodingfun() {
   document.getElementById("main-p").classList.add("fade-in-text2");
   document.getElementById("wish-mes").classList.add("fade-in-text2");
   document.getElementById("smoke").classList.add("fade-in-text2");
-  setInterval(() => {
+  setTimeout(() => {
     document.getElementById("wish-mes").classList.remove("fade-in-text2");
     document.getElementById("link-massagee").classList.remove("fade-in-text2");
     
