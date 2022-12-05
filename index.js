@@ -57,7 +57,7 @@ function lodingfun() {
     document.getElementById("wish-mes").classList.remove("fade-in-text2");
     document.getElementById("link-massagee").classList.remove("fade-in-text2");
     
-  }, 400);
+  }, 1000);
   document.getElementById("wish-mes").classList.add("fade-in-text2");
   document.getElementById("icon").classList.add("fade-in-text");
 
