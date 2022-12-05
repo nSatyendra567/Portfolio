@@ -60,7 +60,7 @@ function lodingfun() {
   }, 1000);
   setTimeout(() => {
     document.getElementById("geine-mes").classList.remove("fade-in-text3");
-  }, 3000);
+  }, 4100);
   document.getElementById("icon").classList.add("fade-in-text");
 
 }
