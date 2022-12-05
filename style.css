@@ -684,7 +684,7 @@ label {
 
 .loader{
     height: 100vh;
-    width: 105vw;
+    width: 100vw;
     background: black;
     position: fixed;
     z-index: 90000;
